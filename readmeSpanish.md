@@ -1,6 +1,6 @@
 
 # Tiny ESP32 C64
-Port del emulador Toy C64 de PC (Rink Springer) a la placa TTGO VGA32 v1.2 con ESP32.
+Port del emulador Toy C64 de PC x86 (Rink Springer) a la placa TTGO VGA32 v1.2 con ESP32.
 <br>
 <center><img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyC64/main/preview/previewC64.gif'></center>
 He realizado varias modificaciones:
