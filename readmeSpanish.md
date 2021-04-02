@@ -7,7 +7,7 @@ He realizado varias modificaciones:
 <ul>
  <li>Portado de x86 PC a ESP32</li>
  <li>Uso de SRAM, no se usa PSRAM</li>
- <li>Funciona en ESP32 de 520 KB de RAM (TTGO VGA32)</li> 
+ <li>Funciona en ESP32 de 520 KB de SRAM (TTGO VGA32)</li> 
  <li>Uso de un sólo core</li>
  <li>OSD de bajos recursos</li>
  <li>Creado proyecto compatible con Arduino IDE y Platform IO</li>
