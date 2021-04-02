@@ -11,6 +11,10 @@ He realizado varias modificaciones:
  <li>Uso de un sólo core</li>
  <li>OSD de bajos recursos</li>
  <li>Creado proyecto compatible con Arduino IDE y Platform IO</li>
+ <li>Emulación de disquetera</li>
+ <li>Emulación de cartucho</li> 
+ <li>Añadido modo de video en color</li>
+ <li>Optimización de RAM y velocidad</li>
 </ul> 
   
 <br>
