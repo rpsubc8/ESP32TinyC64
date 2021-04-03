@@ -12,7 +12,7 @@ He realizado varias modificaciones:
  <li>Creado proyecto compatible con Arduino IDE y Platform IO</li>
  <li>Emulación de disquetera (pruebas)</li>
  <li>Emulación de cartucho (pruebas)</li> 
- <li>Emulación modo video caracter monocromo y color</li> 
+ <li>Emulación modo video carácter monocromo y color</li> 
  <li>Optimización de RAM y velocidad</li>
  <li>No hay emulación de Sonido (por ahora)</li>
  <li>No hay emulación de modos bitmap ni sprites(por ahora)</li>
@@ -54,19 +54,19 @@ Debemos desactivar la opción de PSRAM, y en caso de superar 1 MB de binario, se
 <br>
 <h1>Test</h1>
 Al ser una versión de Test, sólo debe usarse para pruebas de rendimiento.<br>
-Se consigue tener 162032 bytes libre de SRAM.
-Los tiempos de emulación, rondan los 10 ms y 49 fps.
+Se consigue tener 162032 bytes libre de SRAM.<br>
+Los tiempos de emulación, rondan los 10 ms y 49 fps.<br>
 Sólo se está usando un core, para los tests.
-<code>
+<pre>
 fps:49 10645 m:10636 mx:10663
 fps:49 10645 m:10634 mx:10662
 fps:49 10638 m:10636 mx:10649
-</code>
+</pre>
 Se puede probar el BASIC y pokes:
-<code>
+<pre>
 poke 1024,1
 poke 55296,1
-</code>
+</pre>
 <br>
 
 <br>
@@ -81,7 +81,7 @@ Esta versión de Test sólo permite:
 <h1>Opciones</h1>
 El archivo <b>gbConfig.h</b> se seleccionan las opciones:
 <ul> 
- <li><b>usb_lib_fast_GetCyclesForOpcode</b> Usar array cache para calculo de tiempos por instrucción (muy rápido).</li>
- <li><b>usb_lib_fast_MemoryReadByte</b> Usar acceso directo sin vectores al leer de memoria (muy rápido)</li>
- <li><b>usb_lib_fast_MemoryWriteByte</b> Usar acceso directo sin vectores al escribir de memoria (muy rápido)</li>
+ <li><b>usb_lib_fast_GetCyclesForOpcode</b>: Usar array cache para calculo de tiempos por instrucción (muy rápido).</li>
+ <li><b>usb_lib_fast_MemoryReadByte</b>: Usar acceso directo sin vectores al leer de memoria (muy rápido)</li>
+ <li><b>usb_lib_fast_MemoryWriteByte</b>: Usar acceso directo sin vectores al escribir de memoria (muy rápido)</li>
 </ul>
