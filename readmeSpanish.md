@@ -55,7 +55,7 @@ Debemos desactivar la opción de PSRAM, y en caso de superar 1 MB de binario, se
 <h1>Test</h1>
 Al ser una versión de Test, sólo debe usarse para pruebas de rendimiento.<br>
 Se consigue tener 162032 bytes libre de SRAM.<br>
-Los tiempos de emulación, rondan los 10 ms y 49 fps.<br>
+Los tiempos de emulación, rondan los 10 ms por frame y 49 fps.<br>
 Sólo se está usando un core, para los tests.
 <pre>
 fps:49 10645 m:10636 mx:10663
