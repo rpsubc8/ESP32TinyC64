@@ -8,8 +8,7 @@ He realizado varias modificaciones:
  <li>Portado de x86 PC a ESP32</li>
  <li>Uso de SRAM, no se usa PSRAM</li>
  <li>Funciona en ESP32 de 520 KB de SRAM (TTGO VGA32 v1.2)</li> 
- <li>Uso de un sólo core</li>
- <li>OSD de bajos recursos</li>
+ <li>Uso de un sólo core</li> 
  <li>Creado proyecto compatible con Arduino IDE y Platform IO</li>
  <li>Emulación de disquetera (pruebas)</li>
  <li>Emulación de cartucho (pruebas)</li> 
