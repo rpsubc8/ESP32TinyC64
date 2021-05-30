@@ -21,6 +21,7 @@ I have made several modifications:
 <h1>Requirements</h1>
 Required:
  <ul>
+  <li>TTGO VGA32 v1.2</li>
   <li>Visual Studio 1.48.1 PLATFORMIO 2.2.0</li>
   <li>Arduino IDE 1.8.11</li>  
   <li>Arduino bitluni 0.3.3 library (included in project)</li>
