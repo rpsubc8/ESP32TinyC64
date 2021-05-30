@@ -22,6 +22,7 @@ He realizado varias modificaciones:
 <h1>Requerimientos</h1>
 Se requiere:
  <ul>
+  <li>TTGO VGA32 v1.2</li>
   <li>Visual Studio 1.48.1 PLATFORMIO 2.2.0</li>
   <li>Arduino IDE 1.8.11</li>  
   <li>Librería Arduino bitluni 0.3.3 (incluida en proyecto)</li>
