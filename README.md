@@ -7,7 +7,6 @@
 
 <br><br>
 <h1>Documentation (Help)</h1>
-https://www.youtube.com/watch?v=D-4wap7ahHU
 <ul>
  <li><a href='readmeEnglish.md'>English Doc</a></li>
  <li><a href='readmeSpanish.md'>Spanish Doc</a></li>
