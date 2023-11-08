@@ -9,6 +9,7 @@ I have made several modifications:
  <li>Runs on ESP32 520 KB SRAM (TTGO VGA32 v1.2)</li> 
  <li>Use of a single core</li> 
  <li>Created project compatible with Arduino IDE and Platform IO</li>
+ <li>Arduino IDE 1.8.11 Espressif System 1.0.6</li>
  <li>Floppy drive emulation (tests)</li>
  <li>Cartridge emulation (tests)</li> 
  <li>Monochrome and color video character mode emulation</li> 
@@ -23,7 +24,7 @@ Required:
  <ul>
   <li>TTGO VGA32 v1.2</li>
   <li>Visual Studio 1.48.1 PLATFORMIO 2.2.0</li>
-  <li>Arduino IDE 1.8.11</li>  
+  <li>Arduino IDE 1.8.11 Espressif System 1.0.6</li>  
   <li>Arduino bitluni 0.3.3 library (included in project)</li>
  </ul>
 <center><img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyC64/main/preview/ttgovga32v12.jpg'></center> 
