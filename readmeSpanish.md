@@ -10,6 +10,7 @@ He realizado varias modificaciones:
  <li>Funciona en ESP32 de 520 KB de SRAM (TTGO VGA32 v1.2)</li> 
  <li>Uso de un sólo core</li> 
  <li>Creado proyecto compatible con Arduino IDE y Platform IO</li>
+ <li>Arduino IDE 1.8.11 Espressif System 1.0.6</li>
  <li>Emulación de disquetera (pruebas)</li>
  <li>Emulación de cartucho (pruebas)</li> 
  <li>Emulación modo video carácter monocromo y color</li> 
@@ -24,7 +25,7 @@ Se requiere:
  <ul>
   <li>TTGO VGA32 v1.2</li>
   <li>Visual Studio 1.48.1 PLATFORMIO 2.2.0</li>
-  <li>Arduino IDE 1.8.11</li>  
+  <li>Arduino IDE 1.8.11 Espressif System 1.0.6</li>
   <li>Librería Arduino bitluni 0.3.3 (incluida en proyecto)</li>
  </ul>
 <center><img src='https://raw.githubusercontent.com/rpsubc8/ESP32TinyC64/main/preview/ttgovga32v12.jpg'></center> 
